@@ -63,8 +63,10 @@ def get_topic_items():
         logger.warning("Request missing required 'topic' field")
         return jsonify({"error": "topic is required"}), 400
 
-    logger.info(f"Generating items for topic: {body['topic']}")
-    result = openai_service.generate_description(body['topic'])
+    topic = str(body['topic'])
+    butnot = str(body.get('butnot', None))
+    logger.info(f"Generating items for topic: {topic}, butnot: {butnot}")
+    result = openai_service.generate_description(topic, butnot)
     
     if not result['success']:
         logger.error(f"Failed to generate description: {result['error']}")

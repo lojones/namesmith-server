@@ -1,0 +1,402 @@
+2024-11-21 00:44:52,109 - __main__ - INFO - Environment variables loaded
+2024-11-21 00:44:52,110 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-21 00:44:52,123 - __main__ - INFO - Starting Flask application
+2024-11-21 00:45:27,918 - __main__ - INFO - Environment variables loaded
+2024-11-21 00:45:27,919 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-21 00:45:27,933 - __main__ - INFO - Starting Flask application
+2024-11-21 00:45:28,631 - __main__ - INFO - Environment variables loaded
+2024-11-21 00:45:28,632 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-21 00:45:28,646 - __main__ - INFO - Starting Flask application
+2024-11-21 00:50:25,517 - __main__ - INFO - Home endpoint accessed
+2024-11-21 00:50:36,443 - __main__ - INFO - Getting items list
+2024-11-21 00:50:46,947 - __main__ - INFO - Getting items list
+2024-11-21 00:50:48,873 - __main__ - INFO - Getting items list
+2024-11-21 00:50:49,428 - __main__ - INFO - Getting items list
+2024-11-21 00:50:49,787 - __main__ - INFO - Getting items list
+2024-11-21 00:50:50,104 - __main__ - INFO - Getting items list
+2024-11-21 00:50:50,367 - __main__ - INFO - Getting items list
+2024-11-21 00:50:50,600 - __main__ - INFO - Getting items list
+2024-11-21 00:50:50,832 - __main__ - INFO - Getting items list
+2024-11-21 00:52:12,099 - __main__ - INFO - Environment variables loaded
+2024-11-21 00:52:12,103 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-21 00:52:12,120 - __main__ - INFO - Starting Flask application
+2024-11-21 00:52:13,926 - __main__ - INFO - Environment variables loaded
+2024-11-21 00:52:13,930 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-21 00:52:13,947 - __main__ - INFO - Starting Flask application
+2024-11-21 00:56:06,744 - __main__ - INFO - Getting items list
+2024-11-21 01:08:58,290 - __main__ - INFO - Environment variables loaded
+2024-11-21 01:08:58,294 - __main__ - INFO - CORS enabled for origins: ['*']
+2024-11-21 01:08:58,294 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-21 01:08:58,311 - __main__ - INFO - Starting Flask application
+2024-11-21 01:09:00,102 - __main__ - INFO - Environment variables loaded
+2024-11-21 01:09:00,106 - __main__ - INFO - CORS enabled for origins: ['*']
+2024-11-21 01:09:00,107 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-21 01:09:00,125 - __main__ - INFO - Starting Flask application
+2024-11-21 01:14:37,412 - __main__ - INFO - Environment variables loaded
+2024-11-21 01:14:37,416 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-21 01:14:37,416 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-21 01:14:37,434 - __main__ - INFO - Starting Flask application
+2024-11-21 01:14:39,193 - __main__ - INFO - Environment variables loaded
+2024-11-21 01:14:39,197 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-21 01:14:39,198 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-21 01:14:39,216 - __main__ - INFO - Starting Flask application
+2024-11-23 14:01:27,023 - __main__ - INFO - Home endpoint accessed
+2024-11-23 14:01:38,389 - __main__ - INFO - Getting items list
+2024-11-23 14:04:13,024 - __main__ - INFO - Environment variables loaded
+2024-11-23 14:04:13,028 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-23 14:04:13,028 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-23 14:04:13,047 - __main__ - INFO - Starting Flask application
+2024-11-23 14:04:15,000 - __main__ - INFO - Environment variables loaded
+2024-11-23 14:04:15,005 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-23 14:04:15,006 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-23 14:04:15,026 - __main__ - INFO - Starting Flask application
+2024-11-23 14:04:26,109 - __main__ - INFO - Test endpoint accessed
+2024-11-23 14:04:36,452 - __main__ - INFO - Test endpoint accessed
+2024-11-23 14:05:28,330 - __main__ - INFO - Environment variables loaded
+2024-11-23 14:05:28,334 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-23 14:05:28,335 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-23 14:05:28,353 - __main__ - INFO - Starting Flask application
+2024-11-23 14:05:30,268 - __main__ - INFO - Environment variables loaded
+2024-11-23 14:05:30,273 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-23 14:05:30,273 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-23 14:05:30,292 - __main__ - INFO - Starting Flask application
+2024-11-23 14:07:03,461 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 14:07:39,902 - __main__ - INFO - Environment variables loaded
+2024-11-23 14:07:39,906 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-23 14:07:39,906 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-23 14:07:39,930 - __main__ - INFO - Starting Flask application
+2024-11-23 14:07:41,833 - __main__ - INFO - Environment variables loaded
+2024-11-23 14:07:41,838 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-23 14:07:41,839 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-23 14:07:41,858 - __main__ - INFO - Starting Flask application
+2024-11-23 15:28:08,031 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 17:06:57,114 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 17:06:57,115 - __main__ - INFO - Generating items for topic: 
+2024-11-23 17:06:57,116 - services.openai_service - INFO - Generating description for topic: 
+2024-11-23 17:06:57,287 - services.openai_service - ERROR - Error generating description: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key*here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Traceback (most recent call last):
+  File "C:\code\27-expenses-reminder\namesmith-server\services\openai_service.py", line 20, in generate_description
+    response = self.client.chat.completions.create(
+  File "c:\code\27-expenses-reminder\namesmith-server\namesmithvenv\lib\site-packages\openai\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "c:\code\27-expenses-reminder\namesmith-server\namesmithvenv\lib\site-packages\openai\resources\chat\completions.py", line 829, in create
+    return self._post(
+  File "c:\code\27-expenses-reminder\namesmith-server\namesmithvenv\lib\site-packages\openai\_base_client.py", line 1278, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "c:\code\27-expenses-reminder\namesmith-server\namesmithvenv\lib\site-packages\openai\_base_client.py", line 955, in request
+    return self._request(
+  File "c:\code\27-expenses-reminder\namesmith-server\namesmithvenv\lib\site-packages\openai\_base_client.py", line 1059, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.AuthenticationError: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key*here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-11-23 17:06:57,291 - __main__ - ERROR - Failed to generate description: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key*here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-11-23 17:07:41,721 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 17:07:41,721 - __main__ - INFO - Generating items for topic: 7 figures from Norse mythology
+2024-11-23 17:07:41,722 - services.openai_service - INFO - Generating description for topic: 7 figures from Norse mythology
+2024-11-23 17:07:41,857 - services.openai_service - ERROR - Error generating description: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key*here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Traceback (most recent call last):
+  File "C:\code\27-expenses-reminder\namesmith-server\services\openai_service.py", line 20, in generate_description
+    response = self.client.chat.completions.create(
+  File "c:\code\27-expenses-reminder\namesmith-server\namesmithvenv\lib\site-packages\openai\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "c:\code\27-expenses-reminder\namesmith-server\namesmithvenv\lib\site-packages\openai\resources\chat\completions.py", line 829, in create
+    return self._post(
+  File "c:\code\27-expenses-reminder\namesmith-server\namesmithvenv\lib\site-packages\openai\_base_client.py", line 1278, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "c:\code\27-expenses-reminder\namesmith-server\namesmithvenv\lib\site-packages\openai\_base_client.py", line 955, in request
+    return self._request(
+  File "c:\code\27-expenses-reminder\namesmith-server\namesmithvenv\lib\site-packages\openai\_base_client.py", line 1059, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.AuthenticationError: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key*here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-11-23 17:07:41,859 - __main__ - ERROR - Failed to generate description: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key*here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-11-23 17:10:07,928 - __main__ - INFO - Environment variables loaded
+2024-11-23 17:10:07,933 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-23 17:10:07,934 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-23 17:10:07,951 - __main__ - INFO - Starting Flask application
+2024-11-23 17:10:26,077 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 17:10:51,715 - __main__ - INFO - Generating items for topic: 7 figures from Norse mythology
+2024-11-23 17:11:01,627 - services.openai_service - INFO - Generating description for topic: 7 figures from Norse mythology
+2024-11-23 17:11:33,438 - services.openai_service - ERROR - Error generating description: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key*here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Traceback (most recent call last):
+  File "C:\code\27-expenses-reminder\namesmith-server\services\openai_service.py", line 20, in generate_description
+    response = self.client.chat.completions.create(
+  File "c:\code\27-expenses-reminder\namesmith-server\namesmithvenv\lib\site-packages\openai\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "c:\code\27-expenses-reminder\namesmith-server\namesmithvenv\lib\site-packages\openai\resources\chat\completions.py", line 829, in create
+    return self._post(
+  File "c:\code\27-expenses-reminder\namesmith-server\namesmithvenv\lib\site-packages\openai\_base_client.py", line 1278, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "c:\code\27-expenses-reminder\namesmith-server\namesmithvenv\lib\site-packages\openai\_base_client.py", line 955, in request
+    return self._request(
+  File "c:\code\27-expenses-reminder\namesmith-server\namesmithvenv\lib\site-packages\openai\_base_client.py", line 1059, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.AuthenticationError: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key*here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-11-23 17:11:33,442 - __main__ - ERROR - Failed to generate description: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key*here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-11-23 17:12:01,826 - __main__ - INFO - Environment variables loaded
+2024-11-23 17:12:01,830 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-23 17:12:01,830 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-23 17:12:01,848 - __main__ - INFO - Starting Flask application
+2024-11-23 17:12:03,701 - __main__ - INFO - Environment variables loaded
+2024-11-23 17:12:03,706 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-23 17:12:03,707 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-23 17:12:03,724 - __main__ - INFO - Starting Flask application
+2024-11-23 17:12:19,630 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 17:12:19,632 - __main__ - INFO - Generating items for topic: 
+2024-11-23 17:12:19,633 - services.openai_service - INFO - Generating description for topic: 
+2024-11-23 17:12:20,547 - services.openai_service - ERROR - Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2024-11-23 17:12:20,547 - __main__ - ERROR - Failed to generate description: Invalid JSON response from OpenAI
+2024-11-23 17:12:39,715 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 17:12:41,234 - __main__ - INFO - Generating items for topic: 7 figures from Norse mythology
+2024-11-23 17:12:45,774 - services.openai_service - INFO - Generating description for topic: 7 figures from Norse mythology
+2024-11-23 17:18:15,420 - services.openai_service - ERROR - Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2024-11-23 17:18:15,421 - __main__ - ERROR - Failed to generate description: Invalid JSON response from OpenAI
+2024-11-23 17:19:33,522 - __main__ - INFO - Environment variables loaded
+2024-11-23 17:19:33,527 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-23 17:19:33,528 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-23 17:19:33,547 - __main__ - INFO - Starting Flask application
+2024-11-23 17:20:45,352 - __main__ - INFO - Environment variables loaded
+2024-11-23 17:20:45,356 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-23 17:20:45,357 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-23 17:20:45,379 - __main__ - INFO - Starting Flask application
+2024-11-23 17:20:47,237 - __main__ - INFO - Environment variables loaded
+2024-11-23 17:20:47,241 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-23 17:20:47,242 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-23 17:20:47,260 - __main__ - INFO - Starting Flask application
+2024-11-23 17:21:21,879 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 17:21:24,095 - __main__ - INFO - Generating items for topic: 
+2024-11-23 17:21:33,226 - services.openai_service - INFO - Generating description for topic: 
+2024-11-23 17:22:22,991 - services.openai_service - ERROR - Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2024-11-23 17:22:22,992 - __main__ - ERROR - Failed to generate description: Invalid JSON response from OpenAI
+2024-11-23 17:24:13,333 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 17:24:15,471 - __main__ - INFO - Generating items for topic: 
+2024-11-23 17:26:37,706 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 17:26:37,706 - services.openai_service - INFO - Generating description for topic: 
+2024-11-23 17:26:43,563 - __main__ - INFO - Generating items for topic: 7 figures from Norse mythology
+2024-11-23 17:26:56,855 - services.openai_service - INFO - Generating description for topic: 7 figures from Norse mythology
+2024-11-23 20:07:00,403 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 20:07:00,404 - __main__ - INFO - Generating items for topic: 7 figures from Norse mythology
+2024-11-23 20:07:32,308 - services.openai_service - INFO - Generating description for topic: 7 figures from Norse mythology
+2024-11-23 20:07:32,309 - services.openai_service - ERROR - Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2024-11-23 20:07:43,881 - services.openai_service - ERROR - Failed to parse OpenAI response: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)
+2024-11-23 20:07:43,900 - __main__ - ERROR - Failed to generate description: Invalid JSON response from OpenAI
+2024-11-23 20:07:43,901 - __main__ - ERROR - Failed to generate description: Invalid JSON response from OpenAI
+2024-11-23 20:08:57,265 - __main__ - INFO - Environment variables loaded
+2024-11-23 20:08:57,269 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-23 20:08:57,269 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-23 20:08:57,288 - __main__ - INFO - Starting Flask application
+2024-11-23 20:08:59,322 - __main__ - INFO - Environment variables loaded
+2024-11-23 20:08:59,327 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-23 20:08:59,328 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-23 20:08:59,346 - __main__ - INFO - Starting Flask application
+2024-11-23 20:09:06,894 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 20:09:06,895 - __main__ - INFO - Generating items for topic: 7 figures from Norse mythology
+2024-11-23 20:09:13,408 - services.openai_service - INFO - Generating description for topic: 7 figures from Norse mythology
+2024-11-23 20:09:48,894 - services.openai_service - ERROR - Failed to parse OpenAI response: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)
+2024-11-23 20:09:48,895 - __main__ - ERROR - Failed to generate description: Invalid JSON response from OpenAI
+2024-11-23 20:10:05,635 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 20:10:05,636 - __main__ - INFO - Generating items for topic: 7 figures from Norse mythology
+2024-11-23 20:10:12,271 - services.openai_service - INFO - Generating description for topic: 7 figures from Norse mythology
+2024-11-23 20:10:34,931 - services.openai_service - ERROR - Failed to parse OpenAI response: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)
+2024-11-23 20:12:08,423 - __main__ - ERROR - Failed to generate description: Invalid JSON response from OpenAI
+2024-11-23 20:13:56,279 - __main__ - INFO - Environment variables loaded
+2024-11-23 20:13:56,283 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-23 20:13:56,284 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-23 20:13:56,303 - __main__ - INFO - Starting Flask application
+2024-11-23 20:13:58,407 - __main__ - INFO - Environment variables loaded
+2024-11-23 20:13:58,411 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-23 20:13:58,412 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-23 20:13:58,430 - __main__ - INFO - Starting Flask application
+2024-11-23 20:14:43,526 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 20:14:43,528 - __main__ - INFO - Generating items for topic: 
+2024-11-23 20:14:48,959 - services.openai_service - INFO - Generating description for topic: 
+2024-11-23 20:15:21,222 - services.openai_service - ERROR - Failed to parse OpenAI response: invalid syntax (<unknown>, line 1)
+2024-11-23 20:15:23,111 - __main__ - ERROR - Failed to generate description: Invalid JSON response from OpenAI
+2024-11-23 20:15:40,851 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 20:15:40,852 - __main__ - INFO - Generating items for topic: 7 objects from the constellations or stars like Orion, Vega, etc. in the category of Celestial
+2024-11-23 20:15:45,481 - services.openai_service - INFO - Generating description for topic: 7 objects from the constellations or stars like Orion, Vega, etc. in the category of Celestial
+2024-11-23 20:15:54,903 - services.openai_service - INFO - Successfully generated and parsed description
+2024-11-23 20:16:00,295 - __main__ - INFO - Successfully generated topic items
+2024-11-23 20:32:59,337 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 20:32:59,338 - __main__ - INFO - Generating items for topic: 
+2024-11-23 20:32:59,339 - services.openai_service - INFO - Generating description for topic: 
+2024-11-23 20:33:07,003 - services.openai_service - ERROR - Failed to parse OpenAI response: invalid syntax (<unknown>, line 1)
+2024-11-23 20:33:08,289 - __main__ - ERROR - Failed to generate description: Invalid JSON response from OpenAI
+2024-11-23 20:33:10,796 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 20:33:10,798 - __main__ - INFO - Generating items for topic: 9 characters from Greek mythology
+2024-11-23 20:33:10,798 - services.openai_service - INFO - Generating description for topic: 9 characters from Greek mythology
+2024-11-23 20:33:20,347 - services.openai_service - INFO - Successfully generated and parsed description
+2024-11-23 20:33:23,894 - __main__ - INFO - Successfully generated topic items
+2024-11-23 20:35:31,361 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 20:35:31,362 - __main__ - INFO - Generating items for topic: 
+2024-11-23 20:35:31,363 - services.openai_service - INFO - Generating description for topic: 
+2024-11-23 20:35:31,887 - services.openai_service - ERROR - Failed to parse OpenAI response: unterminated string literal (detected at line 1) (<unknown>, line 1)
+2024-11-23 20:35:31,888 - __main__ - ERROR - Failed to generate description: Invalid JSON response from OpenAI
+2024-11-23 20:35:33,024 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 20:35:33,025 - __main__ - INFO - Generating items for topic: 7 figures from Norse mythology
+2024-11-23 20:35:33,026 - services.openai_service - INFO - Generating description for topic: 7 figures from Norse mythology
+2024-11-23 20:35:39,104 - services.openai_service - INFO - Successfully generated and parsed description
+2024-11-23 20:35:39,105 - __main__ - INFO - Successfully generated topic items
+2024-11-23 20:36:17,358 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 20:36:17,360 - __main__ - INFO - Generating items for topic: figures from Norse mythology
+2024-11-23 20:36:17,360 - services.openai_service - INFO - Generating description for topic: figures from Norse mythology
+2024-11-23 20:36:19,205 - services.openai_service - INFO - Successfully generated and parsed description
+2024-11-23 20:36:19,206 - __main__ - INFO - Successfully generated topic items
+2024-11-23 20:36:44,113 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 20:36:44,114 - __main__ - INFO - Generating items for topic: figures from Norse mythology
+2024-11-23 20:36:44,115 - services.openai_service - INFO - Generating description for topic: figures from Norse mythology
+2024-11-23 20:36:48,038 - services.openai_service - ERROR - Failed to parse OpenAI response: invalid character '’' (U+2019) (<unknown>, line 1)
+2024-11-23 20:36:48,039 - __main__ - ERROR - Failed to generate description: Invalid JSON response from OpenAI
+2024-11-23 20:36:51,769 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 20:36:51,769 - __main__ - INFO - Generating items for topic: figures from Norse mythology
+2024-11-23 20:36:51,770 - services.openai_service - INFO - Generating description for topic: figures from Norse mythology
+2024-11-23 20:36:56,133 - services.openai_service - INFO - Successfully generated and parsed description
+2024-11-23 20:36:56,134 - __main__ - INFO - Successfully generated topic items
+2024-11-23 20:56:37,441 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 20:56:37,442 - __main__ - INFO - Generating items for topic: 
+2024-11-23 20:56:37,442 - services.openai_service - INFO - Generating description for topic: 
+2024-11-23 20:56:37,840 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 20:56:37,841 - __main__ - INFO - Generating items for topic: 9 characters from Greek mythology
+2024-11-23 20:56:37,842 - services.openai_service - INFO - Generating description for topic: 9 characters from Greek mythology
+2024-11-23 20:56:38,185 - services.openai_service - ERROR - Failed to parse OpenAI response: invalid syntax (<unknown>, line 1)
+2024-11-23 20:56:38,185 - __main__ - ERROR - Failed to generate description: Invalid JSON response from OpenAI
+2024-11-23 20:56:44,792 - services.openai_service - INFO - Successfully generated and parsed description
+2024-11-23 20:56:44,793 - __main__ - INFO - Successfully generated topic items
+2024-11-23 20:57:35,653 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 20:57:35,654 - __main__ - INFO - Generating items for topic: 
+2024-11-23 20:57:35,654 - services.openai_service - INFO - Generating description for topic: 
+2024-11-23 20:57:36,068 - services.openai_service - ERROR - Failed to parse OpenAI response: invalid syntax (<unknown>, line 1)
+2024-11-23 20:57:36,069 - __main__ - ERROR - Failed to generate description: Invalid JSON response from OpenAI
+2024-11-23 20:57:41,820 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 20:57:41,821 - __main__ - INFO - Generating items for topic: 9 botanical names like Redwood, Yew, etc. in the category of Flora
+2024-11-23 20:57:41,822 - services.openai_service - INFO - Generating description for topic: 9 botanical names like Redwood, Yew, etc. in the category of Flora
+2024-11-23 20:57:46,973 - services.openai_service - INFO - Successfully generated and parsed description
+2024-11-23 20:57:46,974 - __main__ - INFO - Successfully generated topic items
+2024-11-23 21:05:37,287 - __main__ - INFO - Environment variables loaded
+2024-11-23 21:05:37,292 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-23 21:05:37,293 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-23 21:05:37,313 - __main__ - INFO - Starting Flask application
+2024-11-23 21:05:56,123 - __main__ - INFO - Environment variables loaded
+2024-11-23 21:05:56,127 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-23 21:05:56,127 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-23 21:05:56,148 - __main__ - INFO - Starting Flask application
+2024-11-23 21:05:57,991 - __main__ - INFO - Environment variables loaded
+2024-11-23 21:05:57,996 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-23 21:05:57,997 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-23 21:05:58,015 - __main__ - INFO - Starting Flask application
+2024-11-23 21:11:19,315 - __main__ - INFO - Topic items endpoint accessed
+2024-11-23 21:11:19,317 - __main__ - INFO - Generating items for topic: 7 objects from the constellations or stars like Orion, Vega, etc. in the category of Celestial
+2024-11-23 21:11:19,318 - services.openai_service - INFO - Generating description for topic: 7 objects from the constellations or stars like Orion, Vega, etc. in the category of Celestial
+2024-11-23 21:11:23,414 - services.openai_service - INFO - Successfully generated and parsed description
+2024-11-23 21:11:23,415 - __main__ - INFO - Successfully generated topic items
+2024-11-24 11:38:54,639 - __main__ - INFO - Environment variables loaded
+2024-11-24 11:38:54,645 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-24 11:38:54,646 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-24 11:38:54,665 - __main__ - INFO - Starting Flask application
+2024-11-24 12:05:28,843 - __main__ - INFO - Environment variables loaded
+2024-11-24 12:05:28,847 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-24 12:05:28,848 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-24 12:05:28,866 - __main__ - INFO - Starting Flask application
+2024-11-24 12:07:44,585 - __main__ - INFO - Topic items endpoint accessed
+2024-11-24 12:07:44,586 - __main__ - INFO - Generating items for topic: characters from Greek mythology
+2024-11-24 12:07:44,587 - services.openai_service - INFO - Generating description for topic: characters from Greek mythology
+2024-11-24 12:07:50,357 - services.openai_service - INFO - Successfully generated and parsed description
+2024-11-24 12:07:50,358 - __main__ - INFO - Successfully generated topic items
+2024-11-24 12:15:56,825 - __main__ - INFO - Environment variables loaded
+2024-11-24 12:15:56,829 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-24 12:15:56,830 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-24 12:15:56,849 - __main__ - INFO - Starting Flask application
+2024-11-24 12:36:42,320 - __main__ - INFO - Topic items endpoint accessed
+2024-11-24 12:36:42,321 - __main__ - INFO - Generating items for topic: deities from Roman legends
+2024-11-24 12:36:42,322 - services.openai_service - INFO - Generating description for topic: deities from Roman legends
+2024-11-24 12:36:48,151 - services.openai_service - INFO - Successfully generated and parsed description
+2024-11-24 12:36:48,152 - __main__ - INFO - Successfully generated topic items
+2024-11-24 12:37:21,081 - __main__ - INFO - Topic items endpoint accessed
+2024-11-24 12:37:21,082 - __main__ - INFO - Generating items for topic: gods from Egyptian mythology 
+2024-11-24 12:37:21,082 - services.openai_service - INFO - Generating description for topic: gods from Egyptian mythology 
+2024-11-24 12:37:27,526 - services.openai_service - INFO - Successfully generated and parsed description
+2024-11-24 12:37:27,527 - __main__ - INFO - Successfully generated topic items
+2024-11-24 12:41:57,554 - __main__ - INFO - Topic items endpoint accessed
+2024-11-24 12:41:57,554 - __main__ - INFO - Generating items for topic: elements from Star Trek lore 
+2024-11-24 12:41:57,555 - services.openai_service - INFO - Generating description for topic: elements from Star Trek lore 
+2024-11-24 12:42:01,654 - services.openai_service - INFO - Successfully generated and parsed description
+2024-11-24 12:42:01,655 - __main__ - INFO - Successfully generated topic items
+2024-11-24 12:42:08,767 - __main__ - INFO - Topic items endpoint accessed
+2024-11-24 12:42:08,768 - __main__ - INFO - Generating items for topic: elements from Star Trek lore 
+2024-11-24 12:42:08,768 - services.openai_service - INFO - Generating description for topic: elements from Star Trek lore 
+2024-11-24 12:42:12,345 - services.openai_service - INFO - Successfully generated and parsed description
+2024-11-24 12:42:12,346 - __main__ - INFO - Successfully generated topic items
+2024-11-24 12:42:23,525 - __main__ - INFO - Topic items endpoint accessed
+2024-11-24 12:42:23,525 - __main__ - INFO - Generating items for topic: characters from Star Trek lore 
+2024-11-24 12:42:23,526 - services.openai_service - INFO - Generating description for topic: characters from Star Trek lore 
+2024-11-24 12:42:27,799 - services.openai_service - ERROR - Failed to parse OpenAI response: invalid syntax. Perhaps you forgot a comma? (<unknown>, line 1)
+2024-11-24 12:42:27,800 - __main__ - ERROR - Failed to generate description: Invalid JSON response from OpenAI
+2024-11-24 12:43:02,288 - __main__ - INFO - Environment variables loaded
+2024-11-24 12:43:02,294 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-24 12:43:02,295 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-24 12:43:02,313 - __main__ - INFO - Starting Flask application
+2024-11-24 12:43:04,672 - __main__ - INFO - Topic items endpoint accessed
+2024-11-24 12:43:04,673 - __main__ - INFO - Generating items for topic: characters from Star Trek lore 
+2024-11-24 12:43:04,674 - services.openai_service - INFO - Generating description for topic: characters from Star Trek lore 
+2024-11-24 12:43:08,706 - services.openai_service - INFO - OpenAI response: [{'name': 'Kirk', 'desc': 'The captain of the starship USS Enterprise. He is known for his leadership and decision-making skills.'}, 
+ {'name': 'Spock', 'desc': 'The science officer and first officer of the USS Enterprise. He is a half-human, half-Vulcan with strong logical reasoning.'}, 
+ {'name': 'Picard', 'desc': 'The captain of the USS Enterprise-D in Star Trek: The Next Generation. He is known for his diplomacy and calm demeanor.'}, 
+ {'name': 'Data', 'desc': 'A synthetic life form serving as the operations officer on the USS Enterprise-D. He possesses advanced computation and learning capabilities.'}, 
+ {'name': 'McCoy', 'desc': 'The chief medical officer aboard the USS Enterprise. He has extensive medical knowledge and a strong moral compass.'}, 
+ {'name': 'Seven', 'desc': 'A former Borg drone who serves on the USS Voyager. She has enhanced physical abilities and vast knowledge of technology.'}, 
+ {'name': 'Worf', 'desc': 'A Klingon warrior and Starfleet officer aboard the USS Enterprise-D. He exemplifies Klingon honor and combat skill.'}, 
+ {'name': 'Sisko', 'desc': 'The commanding officer of Deep Space Nine. He plays a key role in the politics of the Gamma Quadrant.'}, 
+ {'name': 'Janeway', 'desc': 'The captain of the USS Voyager during its journey home from the Delta Quadrant. She is known for her resilience and tactical thinking.'}, 
+ {'name': 'T'Pol', 'desc': 'A Vulcan science officer on the USS Enterprise in the prequel series. She embodies Vulcan logic and has a complex understanding of human behavior.'}]
+2024-11-24 12:43:08,708 - services.openai_service - ERROR - Failed to parse OpenAI response: unterminated string literal (detected at line 10) (<unknown>, line 10)
+2024-11-24 12:43:08,709 - __main__ - ERROR - Failed to generate description: Invalid JSON response from OpenAI
+2024-11-24 12:43:34,874 - __main__ - INFO - Topic items endpoint accessed
+2024-11-24 12:43:34,875 - __main__ - INFO - Generating items for topic: characters from Star Trek lore 
+2024-11-24 12:43:34,875 - services.openai_service - INFO - Generating description for topic: characters from Star Trek lore 
+2024-11-24 12:43:38,868 - services.openai_service - INFO - OpenAI response: [{'name': 'Kirk', 'desc': 'The captain of the USS Enterprise during the original series. He is known for his leadership and daring tactics.'}, {'name': 'Spock', 'desc': 'A science officer and first officer on the USS Enterprise. He is half-human and half-Vulcan, known for his logic.'}, {'name': 'Picard', 'desc': 'The captain of the USS Enterprise-D in Star Trek: The Next Generation. He is recognized for his diplomacy and command style.'}, {'name': 'Data', 'desc': 'An android serving as the operations officer on the USS Enterprise-D. He is capable of processing information quickly and has no human emotions.'}, {'name': 'Borg', 'desc': 'A collective species known for assimilating other species into their collective. They operate as a hive mind with cybernetic enhancements.'}, {'name': 'Scotty', 'desc': 'The chief engineer on the USS Enterprise in the original series. He is known for his technical expertise and innovative solutions.'}, {'name': 'Worf', 'desc': 'A Klingon officer who serves on the USS Enterprise-D. He represents Klingon culture and upholds its warrior traditions.'}, {'name': 'Janeway', 'desc': 'The captain of the USS Voyager in Star Trek: Voyager. She is known for her resourcefulness and commitment to her crew.'}, {'name': 'Sarek', 'desc': 'Spock's father and a Vulcan ambassador in several Star Trek series. He embodies Vulcan ideals of logic and peace.'}, {'name': 'Uhura', 'desc': 'The communications officer on the USS Enterprise in the original series. She is skilled in linguistics and communication technology.'}]
+2024-11-24 12:43:38,869 - services.openai_service - ERROR - Failed to parse OpenAI response: unterminated string literal (detected at line 1) (<unknown>, line 1)
+2024-11-24 12:43:38,870 - __main__ - ERROR - Failed to generate description: Invalid JSON response from OpenAI
+2024-11-24 12:47:31,470 - __main__ - INFO - Environment variables loaded
+2024-11-24 12:47:31,475 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-24 12:47:31,476 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-24 12:47:31,501 - __main__ - INFO - Starting Flask application
+2024-11-24 12:47:38,370 - __main__ - INFO - Topic items endpoint accessed
+2024-11-24 12:47:38,372 - __main__ - INFO - Generating items for topic: characters from Star Trek lore 
+2024-11-24 12:47:38,372 - services.openai_service - INFO - Generating description for topic: characters from Star Trek lore 
+2024-11-24 12:47:45,753 - services.openai_service - INFO - OpenAI response: [{'name': 'Kirk', 'desc': 'The captain of the USS Enterprise during the original series. He is known for his leadership and bravery in deep space explorations.'}, {'name': 'Spock', 'desc': 'The science officer and first officer of the USS Enterprise. He possesses both human and Vulcan heritage, enabling him to be logical and analytical.'}, {'name': 'Picard', 'desc': 'The captain of the USS Enterprise-D in Star Trek: The Next Generation. He is recognized for his diplomatic skills and philosophical approach to command.'}, {'name': 'Data', 'desc': 'An android serving as the operations officer on the USS Enterprise-D. He is designed to possess advanced cognitive abilities and an extensive knowledge base.'}, {'name': 'Janeway', 'desc': 'The captain of the USS Voyager during Star Trek: Voyager. She is known for her determination and resourcefulness in navigating back to Federation space.'}, {'name': 'Worf', 'desc': 'A Klingon officer serving aboard both the USS Enterprise-D and the USS Voyager. He holds notable strength and combat training, being a skilled warrior.'}, {'name': 'Sisko', 'desc': 'The commander of Deep Space Nine and captain of the USS Defiant. He plays a critical role in the Bajoran Wormhole's exploration and the Dominion War.'}, {'name': 'Beverly', 'desc': 'The chief medical officer on the USS Enterprise-D. She has a strong background in medicine and is known for her compassionate care of the crew.'}, {'name': 'Uhura', 'desc': 'The communications officer on the original USS Enterprise. She is skilled in linguistics and plays a central role in interspecies communication.'}, {'name': 'Q', 'desc': 'A member of the Q Continuum known for his mischievous nature and god-like powers. He serves as a provocateur and challenges the crew of the Enterprise.'}]
+2024-11-24 12:47:45,754 - services.openai_service - ERROR - Failed to parse OpenAI response: unterminated string literal (detected at line 1) (<unknown>, line 1)
+2024-11-24 12:47:45,755 - __main__ - ERROR - Failed to generate description: Invalid JSON response from OpenAI
+2024-11-24 12:50:28,650 - __main__ - INFO - Environment variables loaded
+2024-11-24 12:50:28,655 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-24 12:50:28,656 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-24 12:50:28,674 - __main__ - INFO - Starting Flask application
+2024-11-24 12:50:36,627 - __main__ - INFO - Topic items endpoint accessed
+2024-11-24 12:50:36,628 - __main__ - INFO - Generating items for topic: characters from Star Trek lore 
+2024-11-24 12:50:36,629 - services.openai_service - INFO - Generating description for topic: characters from Star Trek lore 
+2024-11-24 12:50:40,609 - services.openai_service - INFO - OpenAI response: [{"name": "Kirk", "desc": "A starship captain from Starfleet known for his leadership skills. He commands the USS Enterprise."}, {"name": "Spock", "desc": "A half-Vulcan, half-Human science officer with logical reasoning abilities. He has pointed ears and a stoic demeanor."}, {"name": "Picard", "desc": "A Starfleet captain known for his diplomatic approach to exploration. He commands the USS Enterprise-D."}, {"name": "Data", "desc": "An android officer serving in Starfleet with a quest for humanity. He possesses advanced computing capabilities."}, {"name": "Borg", "desc": "A collective of cybernetic beings that assimilate other species. They are known for their hive mind and technology."}, {"name": "Sulu", "desc": "A helmsman on the USS Enterprise known for his skills in navigation. He is often seen leading daring maneuvers."}, {"name": "Worf", "desc": "A Klingon officer serving in Starfleet known for his warrior ethos. He is a member of the USS Enterprise crew."}, {"name": "Janeway", "desc": "A Starfleet captain tasked with leading a crew stranded in the Delta Quadrant. She is known for her resilience and determination."}, {"name": "T'Pring", "desc": "A Vulcan character involved in a key storyline with Spock. She represents the traditional Vulcan culture."}, {"name": "Seven", "desc": "A former drone of the Borg who becomes a member of Starfleet. She has enhanced abilities and a struggle for individuality."}]
+2024-11-24 12:50:40,611 - services.openai_service - INFO - Successfully generated and parsed description
+2024-11-24 12:50:40,611 - __main__ - INFO - Successfully generated topic items
+2024-11-24 12:51:15,514 - __main__ - INFO - Environment variables loaded
+2024-11-24 12:51:15,518 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-24 12:51:15,519 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-24 12:51:15,538 - __main__ - INFO - Starting Flask application
+2024-11-24 12:51:28,603 - __main__ - INFO - Topic items endpoint accessed
+2024-11-24 12:51:28,605 - __main__ - INFO - Generating items for topic: characters from Star Trek lore 
+2024-11-24 12:51:28,605 - services.openai_service - INFO - Generating description for topic: characters from Star Trek lore 
+2024-11-24 12:51:34,226 - services.openai_service - INFO - OpenAI response: [{"name": "Kirk", "desc": "The captain of the USS Enterprise in the original series. He is known for his leadership and adventurous spirit."}, {"name": "Spock", "desc": "A half-human, half-Vulcan science officer and first officer on the USS Enterprise. He is recognized for his logic and emotional restraint."}, {"name": "Picard", "desc": "The captain of the USS Enterprise-D in Star Trek: The Next Generation. He is distinguished by his diplomatic approach and strong moral compass."}, {"name": "Data", "desc": "An android serving as the operations officer on the USS Enterprise-D. He possesses superhuman strength and advanced cognitive abilities."}, {"name": "Uhura", "desc": "A communications officer on the USS Enterprise in the original series. She is known for her expertise in languages and communication technology."}, {"name": "McCoy", "desc": "The chief medical officer aboard the USS Enterprise in the original series. He is recognized for his medical skills and compassionate nature."}, {"name": "Bashir", "desc": "The chief medical officer on Deep Space Nine. He is noted for his medical expertise and research in genetics."}, {"name": "Janeway", "desc": "The captain of the USS Voyager in Star Trek: Voyager. She is known for her determination and command in challenging situations."}, {"name": "T'Challa", "desc": "A member of the Vulcan Science Council and a diplomat. He is recognized for his logical reasoning and adherence to Vulcan philosophy."}, {"name": "Sarek", "desc": "The Vulcan ambassador and father of Spock. He is known for his diplomatic skills and commitment to Vulcan ideals."}]
+2024-11-24 12:51:34,228 - services.openai_service - INFO - Successfully generated and parsed description
+2024-11-24 12:51:34,229 - __main__ - INFO - Successfully generated topic items
+2024-11-24 12:51:49,498 - __main__ - INFO - Environment variables loaded
+2024-11-24 12:51:49,502 - __main__ - INFO - CORS enabled for origins: ['http://localhost:3000', 'http://localhost:5173', 'https://yourdomain.com']
+2024-11-24 12:51:49,503 - services.openai_service - INFO - Initializing OpenAIService
+2024-11-24 12:51:49,521 - __main__ - INFO - Starting Flask application
+2024-11-24 12:51:53,861 - __main__ - INFO - Topic items endpoint accessed
+2024-11-24 12:51:53,862 - __main__ - INFO - Generating items for topic: characters from Star Trek lore 
+2024-11-24 12:51:53,863 - services.openai_service - INFO - Generating description for topic: characters from Star Trek lore 
+2024-11-24 12:52:05,963 - services.openai_service - INFO - OpenAI response: [{"name": "Kirk", "desc": "The captain of the USS Enterprise in the original series. He is known for his leadership and bravery."}, {"name": "Spock", "desc": "A half-Vulcan, half-human science officer serving on the Enterprise. His logic and intellect are key attributes."}, {"name": "Picard", "desc": "The captain of the USS Enterprise-D in Star Trek: The Next Generation. He is recognized for his diplomacy and strategic thinking."}, {"name": "Data", "desc": "An android officer aboard the USS Enterprise-D. He possesses superior processing abilities and seeks to understand humanity."}, {"name": "Sulu", "desc": "The helmsman of the USS Enterprise in the original series. He is skilled in navigation and piloting."}, {"name": "Uhura", "desc": "The communications officer aboard the USS Enterprise in the original series. She is proficient in languages and communication systems."}, {"name": "Beverly", "desc": "The chief medical officer aboard the USS Enterprise-D. She is knowledgeable in medical practices and procedures."}, {"name": "Worf", "desc": "A Klingon officer serving on the USS Enterprise-D. He embodies strength and honor."}, {"name": "Janeway", "desc": "The captain of the USS Voyager in Star Trek: Voyager. She is known for her determination and resourcefulness."}, {"name": "Borg", "desc": "A cybernetic species that assimilates other cultures. They are characterized by their collective consciousness."}, {"name": "Q", "desc": "A powerful being who can manipulate time and space. He is often unpredictable and whimsical."}, {"name": "Riker", "desc": "The first officer of the USS Enterprise-D. He is known for his tactical skills and leadership potential."}, {"name": "Scotty", "desc": "The chief engineer of the USS Enterprise in the original series. He is recognized for his technical expertise and problem-solving ability."}, {"name": "Sarek", "desc": "A Vulcan ambassador and Spock's father. He represents Vulcan philosophy and culture."}, {"name": "Moriarty", "desc": "A holographic character created by Data in Star Trek: The Next Generation. He exhibits traits of intelligence and cunning."}, {"name": "T'Pol", "desc": "A Vulcan science officer aboard the USS Enterprise in Star Trek: Enterprise. She remains composed and analytical."}, {"name": "Neelix", "desc": "A Talaxian crew member and cook on the USS Voyager. He is sociable and resourceful."}, {"name": "Chakotay", "desc": "The first officer of the USS Voyager. He is known for his leadership and cultural insights."}, {"name": "Dax", "desc": "A joined Trill who serves as science officer on Deep Space Nine. She possesses the memories of previous hosts."}, {"name": "Kahless", "desc": "The legendary figure in Klingon history. He symbolizes honor and leadership in Klingon culture."}]
+2024-11-24 12:52:05,965 - services.openai_service - INFO - Successfully generated and parsed description
+2024-11-24 12:52:05,966 - __main__ - INFO - Successfully generated topic items
+2024-11-24 12:52:31,316 - __main__ - INFO - Topic items endpoint accessed
+2024-11-24 12:52:31,317 - __main__ - INFO - Generating items for topic: spaceships from Star Trek lore 
+2024-11-24 12:52:31,318 - services.openai_service - INFO - Generating description for topic: spaceships from Star Trek lore 
+2024-11-24 12:52:42,008 - services.openai_service - INFO - OpenAI response: [{"name": "Enterprise", "desc": "A starship known for exploration and diplomacy. It is equipped with advanced technology and a diverse crew."}, {"name": "Defiant", "desc": "A warship designed for combat and defense. It is smaller and more agile than many other starships."}, {"name": "Voyager", "desc": "A starship that became stranded in a distant quadrant of space. It has various science and engineering capabilities."}, {"name": "Eagle", "desc": "A prototype starship used for testing and exploration. It features cutting-edge design and technology."}, {"name": "Excelsior", "desc": "A starship class known for speed and efficiency. It was among the first to utilize transwarp drive."}, {"name": "Sutherland", "desc": "A starship that serves in the Federation fleet. It is equipped for strategic operations and crewed by experienced personnel."}, {"name": "Prometheus", "desc": "A multi-vector assault starship designed for combat scenarios. It can separate into three distinct sections."}, {"name": "Constellation", "desc": "A starship class designed for exploration and scientific missions. It provides a platform for deep space research."}, {"name": "Grissom", "desc": "A science vessel focused on research and analysis. It is smaller than many typical starships."}, {"name": "Excelsior", "desc": "A starship famed for its pioneering role in advancing starship technology. It features a sleek design and futuristic engines."}, {"name": "Andromeda", "desc": "A starship that serves exploratory and diplomatic purposes. It hosts a variety of research facilities."}, {"name": "Aquila", "desc": "A starship used primarily for scientific exploration. It is built for deep-space missions."}, {"name": "Niagara", "desc": "A starship designed for tactical support and maneuvers. It has enhanced weaponry and defensive systems."}, {"name": "Renaissance", "desc": "A starship focusing on cultural exchange and knowledge sharing. It includes amenities for diverse species."}, {"name": "Cerritos", "desc": "A starship assigned to support missions in the Federation. It operates in various exploratory capacities."}, {"name": "California", "desc": "A starship designed for faster-than-light travel and research. It emphasizes crew comfort and efficiency."}, {"name": "Zefram", "desc": "A starship associated with innovative warp drive experimentation. It represents advancements in starship engineering."}, {"name": "Antares", "desc": "A cargo vessel often used for transport missions within the Federation. It is equipped for freight capabilities."}, {"name": "Bellerophon", "desc": "A starship used for specialized military operations. It possesses advanced tactical systems."}, {"name": "Raptor", "desc": "A starship involved in covert operations and reconnaissance. It features stealth technology."}]
+2024-11-24 12:52:42,010 - services.openai_service - INFO - Successfully generated and parsed description
+2024-11-24 12:52:42,011 - __main__ - INFO - Successfully generated topic items
