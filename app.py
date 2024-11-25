@@ -14,19 +14,42 @@ logger.info("Environment variables loaded")
 
 app = Flask(__name__)
 
-# Enable CORS for all routes with additional headers
-allowed_origins = os.getenv('ALLOWED_ORIGINS', '*').split(',')
-CORS(app, resources={
-    r"/*": {
+# Clean and validate origins from environment
+allowed_origins = [
+    origin.strip() 
+    for origin in os.getenv('ALLOWED_ORIGINS', '').split(',') 
+    if origin.strip()
+]
+
+# Add development origins if not in production
+if os.getenv('FLASK_ENV') != 'production':
+    dev_origins = ['http://localhost:3000', 'http://127.0.0.1:3000']
+    allowed_origins.extend(dev_origins)
+    logger.info(f"Added development origins: {dev_origins}")
+
+if not allowed_origins:
+    logger.error("ALLOWED_ORIGINS environment variable not set!")
+    raise ValueError("ALLOWED_ORIGINS must be set in environment variables")
+
+# Validate all origins are HTTPS
+if any(not origin.startswith('https://') for origin in allowed_origins):
+    logger.error("All origins must use HTTPS!")
+    raise ValueError("All origins must use HTTPS")
+
+logger.info(f"Configured allowed origins: {allowed_origins}")
+
+
+
+cors = CORS(app, resources={
+    r"/api/*": {
         "origins": allowed_origins,
-        "methods": ["GET", "POST", "OPTIONS"],
-        "allow_headers": ["Content-Type", "Authorization", "Access-Control-Allow-Origin"],
-        "expose_headers": ["Content-Type", "Authorization"],
+        "methods": ["GET", "POST"],
+        "allow_headers": ["Content-Type", "Authorization"],
+        "expose_headers": ["Content-Type"],
         "supports_credentials": True,
-        "max_age": 600  # Cache preflight requests for 10 minutes
+        "max_age": 600
     }
 })
-logger.info(f"CORS enabled for origins: {allowed_origins}")
 
 openai_service = OpenAIService()
 
