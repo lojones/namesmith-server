@@ -32,7 +32,7 @@ if not allowed_origins:
     raise ValueError("ALLOWED_ORIGINS must be set in environment variables")
 
 # Validate all origins are HTTPS
-if any(not origin.startswith('https://') for origin in allowed_origins):
+if os.getenv('FLASK_ENV') == 'production' and any(not origin.startswith('https://') for origin in allowed_origins):
     logger.error("All origins must use HTTPS!")
     raise ValueError("All origins must use HTTPS")
 
