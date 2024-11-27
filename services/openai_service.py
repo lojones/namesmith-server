@@ -58,7 +58,7 @@ class OpenAIService:
         # If not in cache, call OpenAI
         logger.info(f"Topic: {topic} - Not found in cache - Calling OpenAI")
         try:
-            logger.info(f"Making API call to OpenAI for {topic}")
+            logger.info(f"Making OpenAI API call to OpenAI for {topic}")
             response = self.client.chat.completions.create(
                 model="gpt-4o-mini",
                 messages=[

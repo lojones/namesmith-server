@@ -56,10 +56,18 @@ openai_service = OpenAIService()
 @app.after_request
 def after_request(response):
     logger.debug("Adding CORS headers to response")
-    # Explicitly add CORS headers to each response
-    response.headers.add('Access-Control-Allow-Origin', '*')
+    # Get the request origin
+    origin = request.headers.get('Origin')
+    logger.debug(f"Request origin: {origin}")
+    
+    # Only allow the origin if it's in our allowed origins list
+    if origin in allowed_origins:
+        response.headers.add('Access-Control-Allow-Origin', origin)
+        logger.debug(f"Allowing request from: {origin}")
+    
     response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization')
     response.headers.add('Access-Control-Allow-Methods', 'GET,POST,OPTIONS')
+    response.headers.add('Access-Control-Allow-Credentials', 'true')
     return response
 
 @app.route('/')
@@ -67,19 +75,9 @@ def home():
     logger.info("Home endpoint accessed")
     return jsonify({"message": "Welcome to the API!"})
 
-@app.route('/api/items', methods=['GET'])
-def get_items():
-    logger.info("Getting items list")
-    # Dummy data for demonstration
-    items = [
-        {"id": 1, "name": "Item 1"},
-        {"id": 2, "name": "Item 2"}
-    ]
-    return jsonify(items)
-
 @app.route('/api/topicitems', methods=['POST'])
 def get_topic_items():
-    logger.info("Topic items endpoint accessed")
+    
     body = request.get_json()
     
     if not body or 'topic' not in body:
@@ -88,25 +86,19 @@ def get_topic_items():
 
     topic = str(body['topic'])
     butnot = str(body.get('butnot', None))
-    logger.info(f"Generating items for topic: {topic}, butnot: {butnot}")
+    logger.info(f"Getting topic names - Generating for topic: {topic}, butnot: {butnot}")
     result = openai_service.generate_description(topic, butnot)
     
     if not result['success']:
         logger.error(f"Failed to generate description: {result['error']}")
         return jsonify({"error": result['error']}), 500
     
-    logger.info("Successfully generated topic items")
+    logger.info("Successfully generated topic ideas")
     return jsonify({
         "topic": body['topic'],
         "items": result['description']
     }), 200
 
-
-def test():
-    logger.info("Test endpoint accessed")
-    return jsonify({
-        "message": "success"
-    }), 200
 
 if __name__ == '__main__':
     logger.info("Starting Flask application")
