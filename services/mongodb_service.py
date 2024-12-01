@@ -2,7 +2,7 @@ from typing import Dict, Any, Optional
 from pymongo import MongoClient
 from utils.logger import setup_logger
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 import hashlib
 import json
 
@@ -64,3 +64,14 @@ class MongoDBService:
         except Exception as e:
             logger.error(f"Error finding response in MongoDB: {e}", exc_info=True)
             return None
+        
+    def log_query(self, prompt: str):
+        """Log a query to the time series collection using the prompt hash"""
+        try:
+            prompt_hash = self._generate_hash(prompt)  # Reuse existing hash function
+            self.db.NS_QUERY_LOG.insert_one({
+                'timestamp': datetime.now(timezone.utc),
+                'prompt_hash': prompt_hash
+            })
+        except Exception as e:
+            logger.error(f"Failed to log query: {str(e)}")

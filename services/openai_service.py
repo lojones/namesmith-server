@@ -50,6 +50,7 @@ class OpenAIService:
         cached_result = self.mongodb_service.find_response(user_prompt)
         if cached_result:
             logger.info(f"Found cached result for prompt: {topic} - Returning cached result")
+            self.mongodb_service.log_query(user_prompt)
             return {
                 "success": True,
                 "description": cached_result['response'],
@@ -81,6 +82,7 @@ class OpenAIService:
                 
                 # Save to cache
                 self.mongodb_service.save_response(user_prompt, parsed_content)
+                self.mongodb_service.log_query(user_prompt)
                 
                 logger.info(f"OpenAI success for {topic}")
                 return {
