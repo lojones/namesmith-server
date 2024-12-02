@@ -11,6 +11,11 @@ logger = setup_logger(__name__)
 class OpenAIService:
     def __init__(self):
         logger.info("Initializing OpenAIService")
+        # Remove any proxy settings from environment variables
+        if 'HTTPS_PROXY' in os.environ:
+            del os.environ['HTTPS_PROXY']
+        if 'HTTP_PROXY' in os.environ:
+            del os.environ['HTTP_PROXY']
         self.client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
         if not os.getenv('OPENAI_API_KEY'):
             logger.warning("OPENAI_API_KEY not found in environment variables")
